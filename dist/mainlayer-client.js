@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.MainlayerClient = exports.MainlayerApiError = void 0;
-const BASE_URL = 'https://api.mainlayer.xyz';
+const BASE_URL = 'https://api.mainlayer.fr';
 class MainlayerApiError extends Error {
     constructor(message, statusCode, body) {
         super(message);

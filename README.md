@@ -2,7 +2,7 @@
 
 Migrate from Stripe to Mainlayer in minutes.
 
-Move your Stripe product catalog — products, prices, and customers — to [Mainlayer](https://mainlayer.xyz) with a single command. The tool maps Stripe concepts to their Mainlayer equivalents automatically, logs everything, and supports a safe dry-run preview mode.
+Move your Stripe product catalog — products, prices, and customers — to [Mainlayer](https://mainlayer.fr) with a single command. The tool maps Stripe concepts to their Mainlayer equivalents automatically, logs everything, and supports a safe dry-run preview mode.
 
 ---
 
@@ -48,7 +48,7 @@ npx mainlayer-stripe-migrate stripe --stripe-key sk_... --mainlayer-key ml_...
 ### 1. Get your API keys
 
 - **Stripe**: Dashboard → Developers → API keys → Secret key (`sk_live_...` or `sk_test_...`)
-- **Mainlayer**: [mainlayer.xyz](https://mainlayer.xyz) → Settings → API Keys
+- **Mainlayer**: [mainlayer.fr](https://mainlayer.fr) → Settings → API Keys
 
 ### 2. Preview with dry run
 

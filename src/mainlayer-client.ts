@@ -1,4 +1,4 @@
-const BASE_URL = 'https://api.mainlayer.xyz';
+const BASE_URL = 'https://api.mainlayer.fr';
 
 export type FeeModel = 'subscription' | 'one_time' | 'usage';
 
